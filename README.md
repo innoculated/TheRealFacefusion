@@ -1,4 +1,5 @@
 ----------------------------------
+
 FaceFusion is licensed under the MIT license and the CC. Whereas CC protects digital assets such as image and video, MIT allows for full use, full change, full sale of the code itself.
 
 Seems that the developer is wanting to play it both sides: He is wanting to promote himself in the open-source community and he is wanting to maintain a control of intimidation.
@@ -41,3 +42,4 @@ Installation
 
 Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://windows-installer.facefusion.io) and [macOS Installer](https://macos-installer.facefusion.io) get you started.
 
+Change this code in content_analyzer3.py  -- line 38 PROBABILITY_LIMIT = 1.00
